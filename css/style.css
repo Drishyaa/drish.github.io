@@ -1,0 +1,136 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Raleway');@import url('https://fonts.googleapis.com/css?family=Raleway');
+body
+{
+	font-family: 'Raleway', sans-serif;
+}
+.navbar
+{
+	background:#38454e;
+	border:none;
+	border-radius:0px;
+	
+	
+}
+.navbar a
+{
+	color:#FFF;
+	font-weight:bold;
+}
+.bg2
+{
+	padding:150px;
+	background:#18b5ff;
+	color:#FFF;
+}
+.bg2 img
+{
+	margin:auto;
+}
+.col-lg-4
+{
+	line-height:30px;
+}
+.bg3
+{
+	padding:70px;
+}
+.col-lg-4 h1
+{
+	color:#18b5ff;
+}
+
+.col-lg-4 button
+{
+	background:#38454e;
+	color:#FFF;
+}
+.work
+{
+	padding-top:60px;
+}
+ .two
+{
+	color:#38454e;
+	text-align:left;
+	border-bottom:#38454e 2px solid;
+	font-weight:700;
+}
+.col-lg-4 p
+{
+	color:#2e97ca;
+}
+.one
+{
+	color:#38454e;
+	text-align:left;
+	
+	font-weight:700;
+}
+.col-lg-4 one button
+{
+	background:#38454e;
+	color:#FFF;
+	padding-top:150px;
+}
+.bg5
+{
+	background:url(../images/t-back.jpg);
+	color:#FFF;
+	line-height:30px;
+	padding:70px;
+	line-height:50px;
+	margin-top:40px;
+	
+}
+.bg5 span
+{
+	color:#38454e;
+	font-weight:900;
+}
+.bg6 h2
+{
+	font-weight:700;
+	padding-bottom:40px;
+}
+.bg6 img
+{
+	width:100%;
+}
+.bg6
+{
+	padding:50px;
+}
+.bg7
+{
+	background:#38454e;
+	color:#FFF;
+	padding:70px;
+	margin-top:85px;
+	
+}
+.bg7 h4
+{
+	font-weight:bold;
+	border-bottom:2px #FFF solid;
+}
+.bg7 i
+{
+	font-size:24px;
+	padding-right:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
